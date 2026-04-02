@@ -1,8 +1,6 @@
 # 🏥 HelixCare & CureSureMedico – UX/UI Design Simulation
 
-🔗 **Live Prototype:**  
-
-(https://helixcare-design.figma.site/)](https://helixcare-design.figma.site/)
+🔗 **Live Prototype:* (https://helixcare-design.figma.site/)
 
 ---
 
